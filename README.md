@@ -1,6 +1,6 @@
 # Personal Finance Dashboard
 
-A modern, responsive personal finance dashboard built with React, TypeScript, and Tailwind CSS. Track your income, expenses, budgets, and financial goals with beautiful visualizations and intuitive controls.
+A modern, responsive personal finance dashboard built with React, TypeScript, and Tailwind CSS. Track your income, expenses, budgets, and financial goals with beautiful visualizations and intuitive controls. Test change
 
 ## Features
 
